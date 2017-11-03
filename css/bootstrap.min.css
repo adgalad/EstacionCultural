@@ -182,12 +182,12 @@
  }
 
  table {
- 	border-spacing:0;
+ 	border-spacing:1;
  	border-collapse:collapse
  }
 
  td,th {
- 	padding:0
+ 	padding:16
  }
 
  /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print {
@@ -6791,7 +6791,6 @@
  	position:relative;
  	width:100%;
  	overflow:hidden;
- 	align-items: center;
  }
 
  .carousel-inner>.item {
