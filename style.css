@@ -2,6 +2,7 @@
 body {
 	background-image: url("images/black_bg.jpg");
 	background-repeat: repeat-y;
+	background-attachment: fixed;
 	background-size: 100%;
 }
 
@@ -19,12 +20,4 @@ article {
 .Menu {
 	border: 2px solid black;  
 }
-
-.container-fluid {
-	padding-right:100px; 
-	padding-left:15px;
-	margin-right:auto;
-	margin-left:auto
-}
-
 
